@@ -23,6 +23,11 @@ One might notice that all these terms appear somewhere in the King James Bible. 
 ### About the A.I. (a non-technical description)
 I like to describe this A.I. as locking a baby in a room with nothing but a Bible for 15 years. You then open up the room 15 years later and find that its learned to read, speak,  and write using nothing but the Bible. 'The Plague' and the other high randomness writings can be thought of as the more creative works of that person. 'Blood' and other low randomness writings would be like the high school essays of that person.
 
+### About the A.I. (a technical description)
+
+The AI engine is powered by agents who feed the #AIJesus hash-pool through diversely aligned social and professional media platforms and bases decisions on conditions laid out by the real Yashua who was born 0 AD in the Middle East and lived a life that caused a reset in our globally adopted calendar system.
+
+More...
 
 ### Twitter Bot 
 Twitter Bot coming soon follow [@ai_Jesus_bot](https://twitter.com/ai_Jesus_bot)
